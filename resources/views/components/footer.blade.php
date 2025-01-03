@@ -6,7 +6,7 @@
             </div>
             
             <div class="col-md-9">
-                <div class="row" style="background-color: rgba(0, 128, 128, 0.8); border-radius: 10px; padding: 20px;">
+                <div class="row" style="background-color: rgba(0, 128, 128, 0.8); border-radius: 10px; padding: 15px;">
                     <div class="col-md-3">
                         <h5 style="font-weight: bold;">Tentang</h5>
                         <p>Platform yang mempermudah aktivitas sehari-hari dengan mempertemukan pengguna dan penyedia jasa secara aman, efisien, dan terpercaya.</p>
