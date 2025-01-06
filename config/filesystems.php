@@ -32,7 +32,11 @@ return [
 
         'local' => [
             'driver' => 'local',
+<<<<<<< HEAD
             'root' => storage_path('app/private'),
+=======
+            'root' => storage_path('app/public'),
+>>>>>>> 260d3f1 (Website SiJasa)
             'serve' => true,
             'throw' => false,
         ],
@@ -40,7 +44,11 @@ return [
         'public' => [
             'driver' => 'local',
             'root' => storage_path('app/public'),
+<<<<<<< HEAD
             'url' => env('APP_URL').'/storage',
+=======
+            'url' => env('APP_URL') . '/storage',
+>>>>>>> 260d3f1 (Website SiJasa)
             'visibility' => 'public',
             'throw' => false,
         ],

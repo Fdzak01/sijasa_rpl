@@ -21,6 +21,12 @@ class User extends Authenticatable
         'name',
         'email',
         'password',
+<<<<<<< HEAD
+=======
+        'role',
+        'jenkel',
+        'bio',
+>>>>>>> 260d3f1 (Website SiJasa)
     ];
 
     /**
